@@ -1,9 +1,9 @@
-package myc.introduction;
+package myc.strategy_pattern;
 
-import myc.introduction.behavior.impl.FlyRocketPowered;
-import myc.introduction.entity.Duck;
-import myc.introduction.entity.MallardDuck;
-import myc.introduction.entity.ModelDuck;
+import myc.strategy_pattern.behavior.impl.FlyRocketPowered;
+import myc.strategy_pattern.entity.Duck;
+import myc.strategy_pattern.entity.MallardDuck;
+import myc.strategy_pattern.entity.ModelDuck;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

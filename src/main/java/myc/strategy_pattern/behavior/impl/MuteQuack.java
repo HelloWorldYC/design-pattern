@@ -1,6 +1,6 @@
-package myc.introduction.behavior.impl;
+package myc.strategy_pattern.behavior.impl;
 
-import myc.introduction.behavior.QuackBehavior;
+import myc.strategy_pattern.behavior.QuackBehavior;
 
 public class MuteQuack implements QuackBehavior {
     @Override

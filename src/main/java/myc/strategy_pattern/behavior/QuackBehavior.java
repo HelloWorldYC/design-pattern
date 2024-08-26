@@ -1,4 +1,4 @@
-package myc.introduction.behavior;
+package myc.strategy_pattern.behavior;
 
 /**
  * 鸣叫行为算法族

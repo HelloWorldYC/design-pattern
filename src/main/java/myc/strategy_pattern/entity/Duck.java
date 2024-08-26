@@ -1,7 +1,7 @@
-package myc.introduction.entity;
+package myc.strategy_pattern.entity;
 
-import myc.introduction.behavior.FlyBehavior;
-import myc.introduction.behavior.QuackBehavior;
+import myc.strategy_pattern.behavior.FlyBehavior;
+import myc.strategy_pattern.behavior.QuackBehavior;
 
 public abstract class Duck {
     // 组合

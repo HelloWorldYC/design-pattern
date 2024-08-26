@@ -1,6 +1,6 @@
-package myc.introduction.behavior.impl;
+package myc.strategy_pattern.behavior.impl;
 
-import myc.introduction.behavior.FlyBehavior;
+import myc.strategy_pattern.behavior.FlyBehavior;
 
 public class FlyWithWings implements FlyBehavior {
     @Override

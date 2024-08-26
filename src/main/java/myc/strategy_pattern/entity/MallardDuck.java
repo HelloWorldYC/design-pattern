@@ -1,7 +1,7 @@
-package myc.introduction.entity;
+package myc.strategy_pattern.entity;
 
-import myc.introduction.behavior.impl.FlyWithWings;
-import myc.introduction.behavior.impl.Quack;
+import myc.strategy_pattern.behavior.impl.FlyWithWings;
+import myc.strategy_pattern.behavior.impl.Quack;
 
 public class MallardDuck extends Duck{
     public MallardDuck() {
