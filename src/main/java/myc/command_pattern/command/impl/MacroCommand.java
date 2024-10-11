@@ -2,6 +2,9 @@ package myc.command_pattern.command.impl;
 
 import myc.command_pattern.command.Command;
 
+/**
+ * 宏命令：可以同时执行多个命令
+ */
 public class MacroCommand implements Command{
     Command[] commands;
 

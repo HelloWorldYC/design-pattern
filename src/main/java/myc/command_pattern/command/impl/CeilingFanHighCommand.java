@@ -3,6 +3,9 @@ package myc.command_pattern.command.impl;
 import myc.command_pattern.command.Command;
 import myc.command_pattern.receiver.CeilingFan;
 
+/**
+ * 吊扇开高速命令
+ */
 public class CeilingFanHighCommand implements Command {
     private CeilingFan ceilingFan;
     private int prevSpeed;
